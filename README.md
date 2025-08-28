@@ -31,21 +31,9 @@ DietplanAPP/
 
 Clone the repo
 
-git clone https://github.com/your-username/DietplanAPP.git
-cd DietplanAPP
-
-
 Install requirements
 
 pip install flask pandas scikit-learn
-
-
-Run the app
-
-python app.py
-
-
-Open in browser 👉 http://127.0.0.1:5000
 
 📊 Dataset Format
 
